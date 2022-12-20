@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\piotr\OneDrive\Pulpit\publikowany</_PublishTargetUrl>
+    <History>True|2022-05-30T07:31:09.3990411Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MyWebService2.dll">
+      <publishTime>05/30/2022 09:31:08</publishTime>
+    </File>
+    <File Include="bin/MyWebService2.pdb">
+      <publishTime>05/30/2022 09:31:08</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>05/21/2022 15:08:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/30/2022 09:31:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
